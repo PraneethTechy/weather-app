@@ -10,7 +10,10 @@ A simple and interactive weather app that allows users to fetch and display real
 - **Interactive search**: Users can search by entering city names and get instant results.
 
 ## Screenshots
-[!Screenshot1](<WeatherApp_Screenshots\Screenshot 2024-12-29 214439.png>),[!screenshort2](<WeatherApp_Screenshots\Screenshot 2024-12-29 214524.png>),[!screenshort3](<WeatherApp_Screenshots\Screenshot 2024-12-29 214811.png>)
+![Screenshot1](WeatherApp_Screenshots/Screenshot 2024-12-29 214439.png)
+![Screenshot2](WeatherApp_Screenshots/Screenshot 2024-12-29 214524.png)
+![Screenshot3](WeatherApp_Screenshots/Screenshot 2024-12-29 214811.png)
+
 
 ## How to Use
 1. **Enter a city name** in the search bar.
