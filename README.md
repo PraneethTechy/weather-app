@@ -9,10 +9,9 @@ A simple and interactive weather app that allows users to fetch and display real
 - **Error handling**: Displays an error message for invalid city names or incorrect input.
 - **Interactive search**: Users can search by entering city names and get instant results.
 
-## Screenshots
-![Screenshot1](WeatherApp_Screenshots/Screenshot 2024-12-29 214439.png)
-![Screenshot2](WeatherApp_Screenshots/Screenshot 2024-12-29 214524.png)
-![Screenshot3](WeatherApp_Screenshots/Screenshot 2024-12-29 214811.png)
+##Project link
+you can view the live demo of the project here 
+🔗 ** [Live Demo] (https://weather-7jgo0j12f-praneeths-projects-4add8ce3.vercel.app/) **
 
 
 ## How to Use
